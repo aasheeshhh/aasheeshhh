@@ -1,11 +1,10 @@
 ## Hi, I'm Ashish!
 
 🎓 B.Tech Student | Robotics & Automation  
- C++ | Python | ROS (in progress) | Embedded Systems (in progress)  
+ | Python | ROS | SQL | HTML5 | Webscrapping | Pandas | Numpy 
 
 ##  Current Focus
-- C++ and Python 
-- Embedded hardware experiments
+- Python 
 
 ##  Notable Projects
 
