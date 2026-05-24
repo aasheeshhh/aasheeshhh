@@ -8,6 +8,9 @@
 
 ##  Notable Projects
 
+## 🏆 GSSoC 2026 
+
+<img src="https://raw.githubusercontent.com/aasheeshhh/aasheeshhh/main/gssoc2026.png" width="250">
 
 ##  Reach Me
 -  Mail: ashishligade9843@email.com
