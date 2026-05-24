@@ -8,10 +8,6 @@
 
 ##  Notable Projects
 
-## Open Source contribution 
-
-[![GSSoC'26](https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge&logo=github)](https://gssoc.girlscript.org/)
-
 
 ##  Reach Me
 -  Mail: ashishligade9843@email.com
