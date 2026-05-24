@@ -1,12 +1,11 @@
 ## Hi, I'm Ashish!
 
 🎓 B.Tech Student | Robotics & Automation  
- | Python | ROS | SQL | HTML5 | Webscrapping | Pandas | Numpy 
+ | Python | ML | SQL | HTML5 | Agentic AI | RAG | Numpy 
 
 ##  Current Focus
-- Python 
-
-##  Notable Projects
+- AIML
+- Open Source Contribution
 
 ##  Reach Me
 -  Mail: ashishligade9843@email.com
