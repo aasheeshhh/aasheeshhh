@@ -8,7 +8,7 @@
 - Open Source Contribution
 
 ##  Reach Me
--  Mail: ashishligade9843@email.com
+-  Mail: ashishligade9843@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/ashish-ligade-92b936325/
 -  Twitter(X): https://x.com/LigadeAshi61925
 
